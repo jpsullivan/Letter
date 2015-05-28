@@ -1,1 +1,8 @@
 c:\users\jaysc_000\documents\visual studio 2013\Projects\Letter\Letter\obj\Debug\Letter.csprojResolveAssemblyReference.cache
+c:\users\jaysc_000\documents\visual studio 2013\Projects\Letter\Letter\bin\Debug\Letter.dll
+c:\users\jaysc_000\documents\visual studio 2013\Projects\Letter\Letter\bin\Debug\Letter.pdb
+c:\users\jaysc_000\documents\visual studio 2013\Projects\Letter\Letter\bin\Debug\CsQuery.dll
+c:\users\jaysc_000\documents\visual studio 2013\Projects\Letter\Letter\bin\Debug\PreMailer.Net.dll
+c:\users\jaysc_000\documents\visual studio 2013\Projects\Letter\Letter\bin\Debug\CsQuery.xml
+c:\users\jaysc_000\documents\visual studio 2013\Projects\Letter\Letter\obj\Debug\Letter.dll
+c:\users\jaysc_000\documents\visual studio 2013\Projects\Letter\Letter\obj\Debug\Letter.pdb
